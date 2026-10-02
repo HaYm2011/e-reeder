@@ -20,6 +20,5 @@ VL53L0X TOF Laser Distance Sensor:
 
 https://robu.in/product/vl53l0x-tof-based-lidar-laser-distance-sensor/
 
-for the body of this thing im going to design it and 3d print it
+for the body of this thing (reederfinal.stl) im going to 3d print it
 
-image.pngimage.pngimage.png
