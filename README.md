@@ -26,3 +26,9 @@ for the body of this thing (reederfinal.stl) im going to 3d print it
 <img width="807" height="459" alt="image" src="https://github.com/user-attachments/assets/5afc4fcb-4392-4360-a34e-ef1dcad728c9" />
 <img width="807" height="467" alt="image" src="https://github.com/user-attachments/assets/e85ca25b-79f0-4d37-ac6b-cc643d9cba31" />
 <img width="996" height="677" alt="image" src="https://github.com/user-attachments/assets/d9f679fd-62de-41ef-9f66-e93835d05fd0" />
+
+for the 3d print i have checked the cost of printing it with 0.2 standard quality 20% infil PLA(black):
+
+<img width="1273" height="850" alt="image" src="https://github.com/user-attachments/assets/f060ec79-b81d-4cd7-8d93-8f9e0dc7dc17" />
+
+it amounts to ₹700
