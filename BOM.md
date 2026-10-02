@@ -9,3 +9,10 @@
 | 5 | [18650 3-Cell Holder Without Cover](https://robocraze.com/products/18650-3-cell-holder-charger-without-cover) | Robocraze | ₹33.00 | 1 | ₹33.00 | Series enclosure/leads for 3× 18650 cells |
 | 6 | Custom 3D Printed Enclosure | Robocraze 3d-printing service | ₹700.00 | 1 | ₹700.00 | Front & back shell housing |
 | **Total** | | | | **9** | **₹6,776.00** | *(Excluding shipping)* |
+
+
+for the 3d print i have checked the cost of printing it with 0.2 standard quality 20% infil PLA(black):
+
+<img width="1273" height="850" alt="image" src="https://github.com/user-attachments/assets/f060ec79-b81d-4cd7-8d93-8f9e0dc7dc17" />
+
+it amounts to ₹700
