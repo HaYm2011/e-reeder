@@ -2,6 +2,29 @@
 
 a e-reader... aka chapri kindle
 
+# 2026-10-02: finished up the repo added a BOM
+
+**Total time spent: 0.20 hours**
+
+finished the repo updated the README, added all the project files, the chassis stl. the kicad files and added a BOM 
+![image.png](https://cdn.hackclub.com/01a0fbe5-227c-7c09-a851-3091df2113e0/image.png)
+
+# 2026-10-02: Finished the chassis of the reeder 
+
+**Total time spent: 1 hour 13 mins**
+
+i finished the design of the chassis of the reeder, i had sm trouble with the battery and i decided ill manually put holes for it while assembling the hardware and the rest of the stuff snaps right in place and use 3mm screws to fix it up together
+![image.png](https://cdn.hackclub.com/01a0fbcb-5a9b-7b8e-b6fb-ccc561467d72/image.png)
+![image.png](https://cdn.hackclub.com/01a0fbcb-86f8-7a80-82b3-7d824fbe996b/image.png)
+![image.png](https://cdn.hackclub.com/01a0fbcb-b034-70b0-811c-a7ec6717d460/image.png)
+
+2026-06-08: made the repository
+
+**Total time spent: 0.20 hours**
+
+made a repo :https://github.com/HaYm2011/e-reeder and added the journal.md im going to add the case step files and the kicad files a bit later
+![image.png](https://cdn.hackclub.com/019ea717-d44b-78ac-83a1-32dd86d0991d/image.png)
+
 # 2026-06-08: worked a bit on the case
 
 **Total time spent: 0.10 hours**
