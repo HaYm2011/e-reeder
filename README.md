@@ -4,7 +4,7 @@ So i read about a few other opensource e-reader projects , like this one:
 
 https://github.com/joeycastillo/The-Open-Book
 
-os i realised id like to use a microcontroller for this rather than a micro controller and hence an esp32-s3 for this and a e-ink display i found on robocraze.com :
+So i realised id like to use a microcontroller for this rather than a micro processor and hence an esp32-s3 for this and a e-ink display i found on robocraze.com :
 
 e-ink module:
 
