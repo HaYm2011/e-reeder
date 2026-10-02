@@ -22,3 +22,7 @@ https://robu.in/product/vl53l0x-tof-based-lidar-laser-distance-sensor/
 
 for the body of this thing (reederfinal.stl) im going to 3d print it
 
+<img width="813" height="466" alt="image" src="https://github.com/user-attachments/assets/e21dbe78-7657-407d-b6a8-1e08d9052769" />
+<img width="807" height="459" alt="image" src="https://github.com/user-attachments/assets/5afc4fcb-4392-4360-a34e-ef1dcad728c9" />
+<img width="807" height="467" alt="image" src="https://github.com/user-attachments/assets/e85ca25b-79f0-4d37-ac6b-cc643d9cba31" />
+<img width="996" height="677" alt="image" src="https://github.com/user-attachments/assets/d9f679fd-62de-41ef-9f66-e93835d05fd0" />
