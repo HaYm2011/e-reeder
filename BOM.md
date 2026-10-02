@@ -7,5 +7,5 @@
 | 3 | [VL53L0X TOF Laser Distance Sensor](https://robu.in/product/vl53l0x-tof-based-lidar-laser-distance-sensor/) | Robu.in | ₹119.00 | 2 | ₹238.00 | Left & right gesture detection for page turns |
 | 4 | [3.7V 2000mAh 18650 Li-Ion Battery](https://robocraze.com/products/3-7v-2000mah-18650-li-ion-battery) | Robocraze | ₹69.00 | 3 | ₹207.00 | Rechargeable battery cells |
 | 5 | [18650 3-Cell Holder Without Cover](https://robocraze.com/products/18650-3-cell-holder-charger-without-cover) | Robocraze | ₹33.00 | 1 | ₹33.00 | Series enclosure/leads for 3× 18650 cells |
-| 6 | Custom 3D Printed Enclosure | Custom / Print Service | ₹700.00 | 1 | ₹700.00 | Front & back shell housing |
+| 6 | Custom 3D Printed Enclosure | Robocraze 3d-printing service | ₹700.00 | 1 | ₹700.00 | Front & back shell housing |
 | **Total** | | | | **9** | **₹6,776.00** | *(Excluding shipping)* |
