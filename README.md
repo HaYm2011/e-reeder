@@ -1,8 +1,8 @@
 # e-reeder
 a e-reader... aka chapri kindle
 
+<img width="912" height="569" alt="reeder" src="https://github.com/user-attachments/assets/2333e807-b183-46a6-a532-d10959e0ac05" />
 
-<img width="996" height="677" alt="image" src="https://github.com/user-attachments/assets/d9f679fd-62de-41ef-9f66-e93835d05fd0" />
 
 
 ## Bill of Materials (BOM)
@@ -21,9 +21,7 @@ for the 3d print i have checked the cost of printing it with 0.2 standard qualit
 
 <img width="1273" height="850" alt="image" src="https://github.com/user-attachments/assets/f060ec79-b81d-4cd7-8d93-8f9e0dc7dc17" />
 
-
-
-
+<img width="996" height="677" alt="image" src="https://github.com/user-attachments/assets/d9f679fd-62de-41ef-9f66-e93835d05fd0" />
 <img width="879" height="442" alt="allreeder" src="https://github.com/user-attachments/assets/dfb759f9-4d18-4496-b3be-5270623e48a2" />
 <img width="877" height="738" alt="schreeder" src="https://github.com/user-attachments/assets/3d90c19a-13a9-47f7-abba-bfc7513360f0" />
 <img width="778" height="614" alt="pcbreeeder" src="https://github.com/user-attachments/assets/33058ce2-a215-461b-ba8d-a82aaa8f50e5" />
