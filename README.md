@@ -1,5 +1,7 @@
 # e-reeder
 a e-reader... aka chapri kindle
+So my projects basically a e-reader like a kindle but a lot bulkier, and it uses a 4-3inch e-paper display, an esp32 s3, 3 2000mah li-ion batteries, it also uses 2 TOF VL53LOX sensors for swipe movements for swiping pages or changing the content displayed on the screen, I used kicad to make the pcb which connects all th parts and fusion 360 for the 3d printed chassis
+
 
 <img width="912" height="569" alt="reeder" src="https://github.com/user-attachments/assets/2333e807-b183-46a6-a532-d10959e0ac05" />
 
