@@ -4,8 +4,13 @@ So my projects basically a e-reader like a kindle but a lot bulkier, and it uses
 
 
 <img width="912" height="569" alt="reeder" src="https://github.com/user-attachments/assets/2333e807-b183-46a6-a532-d10959e0ac05" />
-
-
+<img width="996" height="677" alt="image" src="https://github.com/user-attachments/assets/d9f679fd-62de-41ef-9f66-e93835d05fd0" />
+<img width="879" height="442" alt="allreeder" src="https://github.com/user-attachments/assets/dfb759f9-4d18-4496-b3be-5270623e48a2" />
+<img width="877" height="738" alt="schreeder" src="https://github.com/user-attachments/assets/3d90c19a-13a9-47f7-abba-bfc7513360f0" />
+<img width="778" height="614" alt="pcbreeeder" src="https://github.com/user-attachments/assets/33058ce2-a215-461b-ba8d-a82aaa8f50e5" />
+<img width="813" height="466" alt="image" src="https://github.com/user-attachments/assets/e21dbe78-7657-407d-b6a8-1e08d9052769" />
+<img width="807" height="459" alt="image" src="https://github.com/user-attachments/assets/5afc4fcb-4392-4360-a34e-ef1dcad728c9" />
+<img width="807" height="467" alt="image" src="https://github.com/user-attachments/assets/e85ca25b-79f0-4d37-ac6b-cc643d9cba31" />
 
 ## Bill of Materials (BOM)
 
@@ -22,14 +27,6 @@ So my projects basically a e-reader like a kindle but a lot bulkier, and it uses
 for the 3d print i have checked the cost of printing it with 0.2 standard quality 20% infil PLA(black): it amounts to ₹700
 
 <img width="1273" height="850" alt="image" src="https://github.com/user-attachments/assets/f060ec79-b81d-4cd7-8d93-8f9e0dc7dc17" />
-
-<img width="996" height="677" alt="image" src="https://github.com/user-attachments/assets/d9f679fd-62de-41ef-9f66-e93835d05fd0" />
-<img width="879" height="442" alt="allreeder" src="https://github.com/user-attachments/assets/dfb759f9-4d18-4496-b3be-5270623e48a2" />
-<img width="877" height="738" alt="schreeder" src="https://github.com/user-attachments/assets/3d90c19a-13a9-47f7-abba-bfc7513360f0" />
-<img width="778" height="614" alt="pcbreeeder" src="https://github.com/user-attachments/assets/33058ce2-a215-461b-ba8d-a82aaa8f50e5" />
-<img width="813" height="466" alt="image" src="https://github.com/user-attachments/assets/e21dbe78-7657-407d-b6a8-1e08d9052769" />
-<img width="807" height="459" alt="image" src="https://github.com/user-attachments/assets/5afc4fcb-4392-4360-a34e-ef1dcad728c9" />
-<img width="807" height="467" alt="image" src="https://github.com/user-attachments/assets/e85ca25b-79f0-4d37-ac6b-cc643d9cba31" />
 
 
 
